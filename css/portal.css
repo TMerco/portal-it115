@@ -44,7 +44,9 @@ h2,h3 {
     margin-left: 1em;
     line-height: 1em;
 }
-
+main > h2 {
+    text-align: ;
+}
 a {
     color:rgb(0, 88, 202);
     text-decoration: none;
